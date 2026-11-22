@@ -3,4 +3,5 @@ export const MESSAGES = {
   required: 'Required',
   savedSuccessfully: 'Successfully Saved',
   deletedSuccessfully: 'Successfully Deleted',
+  updatedSuccessfully: 'Successfully Updated',
 } as const;
